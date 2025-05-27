@@ -28,12 +28,13 @@ It reads student enrollment data from a CSV file (courses.csv) and plots a bar c
 
 ## Sample Data
 
-| Course        | Students |
-|--------------|----------|
-| Python       | 50       |
-| Data Science | 40       |
-| AI           | 30       |
-| Web Dev      | 20       |
-| Machine L    | 25       |
+| Course           | Students |
+|------------------|----------|
+| Python           | 50       |
+| Data Science     | 40       |
+| AI               | 30       |
+| Web Development  | 20       |
+| Machine Learning | 25       |
 
 ---
+## output
