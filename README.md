@@ -37,10 +37,8 @@ It reads student enrollment data from a CSV file (courses.csv) and plots a bar c
 | Machine Learning | 25       |
 
 ---
-## output
+## Output
 https://raw.githubusercontent.com/hiba-safinaz-44/python-data-visualization/e663c49b84a0b1c5f024f18f7882b26c9ef5c8f1/P1_output_plot.png
-
-
 
 
 ## What I Learned
