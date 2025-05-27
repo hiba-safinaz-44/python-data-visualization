@@ -51,7 +51,7 @@ Creating and customizing bar charts with matplotlib.
 Uploading a Python project to GitHub with a clear README.
 Documenting project outputs using screenshots.
 
-### the future, this project could be expanded by:
+### In the future, this project could be expanded by:
 
 Adding more advanced visualizations (pie charts, line plots, scatter plots).
 Using interactive libraries like Plotly or Seaborn.
